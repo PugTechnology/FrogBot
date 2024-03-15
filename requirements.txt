@@ -6,3 +6,4 @@ llama-index-emebeddings-huggingface
 qdrant-client
 python-dotenv
 disnake
+google.generativeai
